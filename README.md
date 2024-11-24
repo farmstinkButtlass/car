@@ -1,7 +1,5 @@
 <html>
-<style>
-  text-align:center;
-</style>
+<body style="text-align:center;">
 
 <!-- html nerds would it make more sense for me to just make it a header or whatnot -->
 okay i kinda forgot how to use github (& maybe how to code a bit WHOOPS) so lets see what happens
