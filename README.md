@@ -5,7 +5,7 @@
 okay i kinda forgot how to use github (& maybe how to code a bit WHOOPS) so lets see what happens
 
 <p align="center">
-  <a href="https://file.garden/ZFwqlyhvAk-Bo3Zk/dawn-majora.gif" width=440 height=158></a>
+  <img src="https://file.garden/ZFwqlyhvAk-Bo3Zk/dawn-majora.gif" width=440 height=158>
 </p>
 
 </html>
