@@ -1,7 +1,7 @@
 <html>
+<body style="text-align:center;">
 <!-- LAWD i do NOT know how to make this centered -->
 <!-- html nerds how do i make the text center aligned again... -->
-  <video src="https://github.com/user-attachments/assets/456217f7-e0d2-40a1-bd73-48f087be9ec2" width=100 height=10 align="center"/>
 
 <p align="center">
   okay i kinda forgot how to use github (& maybe how to code a bit WHOOPS) so lets see what happens
@@ -37,5 +37,7 @@
       <img src="https://i.pinimg.com/originals/ed/3e/0c/ed3e0cb2fd67e6f89cd56d6c23aa86e9.gif" width=340 height=200>
     </p>
 </details>
+
+  <video src="https://github.com/user-attachments/assets/456217f7-e0d2-40a1-bd73-48f087be9ec2" width=100 height=10 align="center"/>
 
 </html>
