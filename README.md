@@ -6,7 +6,7 @@
 <p align="center">
   okay i kinda forgot how to use github (& maybe how to code a bit WHOOPS) so lets see what happens
   <br><br>
-  <img src="https://file.garden/ZFwqlyhvAk-Bo3Zk/dawn-majora.gif" width=440 height=158>
+  <img src="https://file.garden/ZFwqlyhvAk-Bo3Zk/dawn-majora.gif" width=220 height=79>
 </p>
 
 <p align="center">
