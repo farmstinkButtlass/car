@@ -24,6 +24,16 @@
       <br>the comics, takes off, & the movie) & the legend of zelda !
       <br>[im still suuupppeeerrr new to zelda so i dont know too much though m_ _m"]
       <br><br>
+      <img src="https://64.media.tumblr.com/32f912404ce8067fbc972b72d9e4b420/tumblr_mymvzeBPo71sczkzyo1_500.gif" width=340 height=200>
+    </p>
+</details>
+<br><br>
+<details align="center">
+  <summary><u><b>pony town</b></u></summary>
+    <p align="center">
+      <br>
+      placeholder for now ^_^
+      <br><br>
       <img src="https://i.pinimg.com/originals/ed/3e/0c/ed3e0cb2fd67e6f89cd56d6c23aa86e9.gif" width=340 height=200>
     </p>
 </details>
