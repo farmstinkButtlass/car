@@ -28,6 +28,7 @@
 <details align="center">
   <summary><u><b>interests</b></u></summary>
     <p align="center">
+      <br>
       curently my main interests are scott pilgrim (this includes
       <br>the comics, takes off, & the movie) & the legend of zelda !
       <br>[im still suuupppeeerrr new to zelda so i dont know too much though m_ _m"]
