@@ -1,5 +1,4 @@
 <html>
-<body align="center";">
 <!-- LAWD i do NOT know how to make this centered -->
 <!-- html nerds how do i make the text center aligned again... -->
   <video src="https://github.com/user-attachments/assets/456217f7-e0d2-40a1-bd73-48f087be9ec2" width=100 height=10 align="center"/>
