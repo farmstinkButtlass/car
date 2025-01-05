@@ -8,9 +8,7 @@
   <br><br>
   <img src="https://file.garden/ZFwqlyhvAk-Bo3Zk/dawn-majora.gif" width=440 height=158>
   <br><br>
-  <audio controls>
-    <source src="https://file.garden/ZFwqlyhvAk-Bo3Zk/Stella.mp3" type="audio/mp3">
-   </audio>
+  https://github.com/user-attachments/assets/456217f7-e0d2-40a1-bd73-48f087be9ec2
 </p>
 
 <p align="center">
