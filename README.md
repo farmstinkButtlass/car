@@ -14,6 +14,10 @@
   <br>homework & to make cute ponies of characters i like ! :D
   <br><br>
   <img src="https://i.pinimg.com/originals/ed/69/74/ed69746096714a8e1b37e5b1f935228d.gif" width=340 height=200>
+  <audio controls>
+    <source src="https://file.garden/ZFwqlyhvAk-Bo3Zk/Stella.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
 </p>
 
 <details align="center">
