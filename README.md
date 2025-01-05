@@ -25,7 +25,7 @@
   <br>[im still suuupppeeerrr new to zelda so i dont know too much though m_ _m"]
 </p>
 
-<details>
+<details style="text-align:center;">
   <summary><u><b style="text-align:center;">interests</b></u></summary>
     <p align="center">
       curently my main interests are scott pilgrim (this includes
