@@ -5,14 +5,14 @@
 
 <p align="center">
   okay i kinda forgot how to use github (& maybe how to code a bit WHOOPS) so lets see what happens
-  <br>
+  <br><br>
   <img src="https://file.garden/ZFwqlyhvAk-Bo3Zk/dawn-majora.gif" width=440 height=158>
 </p>
 
 <p align="center">
   hi!! im cat ^_^ i mostly play this game to avoid doing my
-  homework & to make cute ponies of characters i like ! :D
-  <br>
+  <br>homework & to make cute ponies of characters i like ! :D
+  <br><br>
   <img src="https://i.pinimg.com/originals/ed/69/74/ed69746096714a8e1b37e5b1f935228d.gif" width=340 height=200>
 </p>
 
