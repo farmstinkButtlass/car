@@ -5,7 +5,7 @@
 okay i kinda forgot how to use github (& maybe how to code a bit WHOOPS) so lets see what happens
 
 <p align="center">
-  <a href="https://www.pinterest.com/pin/1089097122388623810/"><img src="https://i.pinimg.com/control2/736x/5b/62/95/5b6295140583ec7c9897acf54473e6ae.jpg" width=450 height=250></a>
+  <a href="https://media.tenor.com/zEfq4fkbyJkAAAAM/dawn-majora.gif" width=450 height=200></a>
 </p>
 
 </html>
