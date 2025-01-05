@@ -1,16 +1,13 @@
 <html>
-<body style="text-align:center;">
-
+<body align="center";">
+<!-- LAWD i do NOT know how to make this centered -->
+  <video src="https://github.com/user-attachments/assets/456217f7-e0d2-40a1-bd73-48f087be9ec2" width=100 height=10 align="center"/>
 <!-- html nerds how do i make the text center aligned again... -->
 
 <p align="center">
   okay i kinda forgot how to use github (& maybe how to code a bit WHOOPS) so lets see what happens
   <br><br>
   <img src="https://file.garden/ZFwqlyhvAk-Bo3Zk/dawn-majora.gif" width=440 height=158>
-  <br><br>
-</p>
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/456217f7-e0d2-40a1-bd73-48f087be9ec2" width=500 height=500 align="center"/>
 </p>
 
 <p align="center">
