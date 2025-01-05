@@ -34,6 +34,6 @@
       <br>[im still suuupppeeerrr new to zelda so i dont know too much though m_ _m"]
     </p>
 </details>
-
+</p>
 
 </html>
