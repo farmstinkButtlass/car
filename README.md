@@ -26,7 +26,7 @@
 </p>
 
 <details>
-  <summary><u><b align="center">interests</b></u></summary>
+  <summary><u><b style="text-align:center;">interests</b></u></summary>
     <p align="center">
       curently my main interests are scott pilgrim (this includes
       <br>the comics, takes off, & the movie) & the legend of zelda !
