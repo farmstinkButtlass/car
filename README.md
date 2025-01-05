@@ -10,7 +10,7 @@
   <br><br>
 </p>
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/456217f7-e0d2-40a1-bd73-48f087be9ec2" width=180 height=10 align="center"/>
+  <video src="https://github.com/user-attachments/assets/456217f7-e0d2-40a1-bd73-48f087be9ec2" width=500 height=500 align="center"/>
 </p>
 
 <p align="center">
