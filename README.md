@@ -8,7 +8,7 @@
   <br><br>
   <img src="https://file.garden/ZFwqlyhvAk-Bo3Zk/dawn-majora.gif" width=440 height=158>
   <br><br>
-  <video align="center" src='https://github.com/user-attachments/assets/456217f7-e0d2-40a1-bd73-48f087be9ec2' width=180/>
+  <video src='https://github.com/user-attachments/assets/456217f7-e0d2-40a1-bd73-48f087be9ec2' width=180 height=10 align="center"/>
 </p>
 
 <p align="center">
