@@ -27,7 +27,7 @@
       <img src="https://64.media.tumblr.com/32f912404ce8067fbc972b72d9e4b420/tumblr_mymvzeBPo71sczkzyo1_500.gif" width=340 height=200>
     </p>
 </details>
-<br><br>
+<br>
 <details align="center">
   <summary><u><b>pony town</b></u></summary>
     <p align="center">
