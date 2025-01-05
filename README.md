@@ -23,6 +23,8 @@
       curently my main interests are scott pilgrim (this includes
       <br>the comics, takes off, & the movie) & the legend of zelda !
       <br>[im still suuupppeeerrr new to zelda so i dont know too much though m_ _m"]
+      <br><br>
+      <img src="https://i.pinimg.com/originals/ed/3e/0c/ed3e0cb2fd67e6f89cd56d6c23aa86e9.gif" width=340 height=200>
     </p>
 </details>
 
