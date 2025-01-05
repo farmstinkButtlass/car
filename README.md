@@ -38,6 +38,10 @@
     </p>
 </details>
 
-  <video src="https://github.com/user-attachments/assets/456217f7-e0d2-40a1-bd73-48f087be9ec2" width=100 height=10 align="center"/>
+<p align="center">
+   vvv minimize the video below by clicking the header so that this looks nice vvv
+  <br>[i have no idea how to center & resize this help]
+</p>
+  <video src="https://github.com/user-attachments/assets/456217f7-e0d2-40a1-bd73-48f087be9ec2" width=100 height=10 align="center">
 
 </html>
