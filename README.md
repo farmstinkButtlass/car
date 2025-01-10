@@ -46,6 +46,8 @@
 
 <p align="center">
   this is it for now, thanks for reading !!! :D
+  <br>view my <a href="https://www.last.fm/user/flowerofthesoul">last.fm</a> or sign my <a href="https://falsettos.atabook.org/">guestbook</a>
+  <br>(which i really need to update o_0) if youd like !!
 </p>
 
 <p align="center">
