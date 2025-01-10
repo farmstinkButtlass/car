@@ -32,11 +32,21 @@
   <summary><u><b>pony town</b></u></summary>
     <p align="center">
       <br>
-      placeholder for now ^_^
+      im off-tab 90% of the time, pleasepleaseplease send me a whisper
+      <br>if you wanna chat with me though since it helps me see your
+      <br>message & ill probably eventually respond if you use a whisp :3
+      <br><br>
+      send me a friend request if we're in the same fandom !! if youre
+      <br>using a pony from a media i like ill most likely accept
+      <br>your friend req lawl ^_<
       <br><br>
       <img src="https://i.pinimg.com/originals/ed/3e/0c/ed3e0cb2fd67e6f89cd56d6c23aa86e9.gif" width=340 height=200>
     </p>
 </details>
+
+<p align="center">
+  this is it for now, thanks for reading !!! :D
+</p>
 
 <p align="center">
    vvv minimize the video below by clicking the header so that this looks nice vvv
